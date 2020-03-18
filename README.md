@@ -1,3 +1,8 @@
+## Datasource 
+[Citi Bike October 2019](https://s3.amazonaws.com/tripdata/201910-citibike-tripdata.csv.zip) <br>
+[Citi Bike November 2019](https://s3.amazonaws.com/tripdata/201911-citibike-tripdata.csv.zip) <br>
+[Citi Bike December 2019](https://s3.amazonaws.com/tripdata/201912-citibike-tripdata.csv.zip) <br>
+
 # Tableau Homework - Citi Bike Analytics
 
 ### Before You Begin
